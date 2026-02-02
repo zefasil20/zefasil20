@@ -1,11 +1,11 @@
 <!-- Animated Name -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=4F9DFF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Zefasil+Mulu;Software+Engineering+Student;Java+%7C+OOP+%7C+JavaFX;Backend+|+Mobile+App+Developer;Android+%7C+iOS+%7C+Flutter" alt="Typing Animation" />
-  ## 🌐 Portfolio
-Check out my **one-page portfolio**:  
-[Live Portfolio](https://zefasilmulu.github.io)
-
+  
 </h1>
+<h2>## 🌐 Portfolio
+Check out my **one-page portfolio**:  
+[Live Portfolio](https://zefasilmulu.github.io)</h2>
 
 
 ---
