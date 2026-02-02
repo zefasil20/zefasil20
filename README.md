@@ -3,8 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=4F9DFF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Zefasil+Mulu;Software+Engineering+Student;Java+%7C+OOP+%7C+JavaFX;Backend+|+Mobile+App+Developer;Android+%7C+iOS+%7C+Flutter" alt="Typing Animation" />
   
 </h1>
-## 🌐 [✨ Portfolio ✨](https://zefasil20.github.io)
-
+<!-- Portfolio Link -->
+<p align="center">
+  🌐 [✨ Portfolio ✨](https://zefasil20.github.io)
+</p>
 
 
 
