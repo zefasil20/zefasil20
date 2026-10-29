@@ -171,9 +171,3 @@ I am interested in internship and junior developer opportunities, especially in 
 - **GitHub:** [zefasil20](https://github.com/zefasil20)
 
 ---
-
-## 📈 GitHub Activity
-
-   <p align="center">
-     <img src="https://ghchart.rshah.org/4F9DFF/zefasil20" alt="Zefasil's GitHub contribution heatmap" />
-   </p>
