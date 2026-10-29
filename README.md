@@ -27,14 +27,12 @@
 - ☕ Solid foundation in **Java and object-oriented programming**, with **JavaFX** desktop applications built using MVC
 - 🌐 Experience building web projects with **JavaScript, HTML and CSS**
 - 📐 Academic grounding in **UML modeling, software testing and QA, and distributed systems** (Java RMI, replication, consistency)
-- 🤝 Built a **Flutter mobile application** as a collaborative coursework project with friends, and contributed to **EventAxis** during an internship at Nextgen Technologies P.L.C.
+- 🤝 Collaborated with friends on a **Flutter mobile application** (coursework) and contributed to **EventAxis** during an internship at Nextgen Technologies P.L.C.
 - 🌱 Moving toward **full-stack web development** with Python and Django, with a particular interest in backend engineering and databases
 
 ---
 
 ## 🛠️ Technical Skills
-
-### Used in coursework and projects
 
 **Languages**
 
@@ -47,12 +45,12 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
-**Frameworks and platforms**
+**Frameworks, platforms and APIs**
 
 <p>
   <img src="https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logo=openjdk&logoColor=white" alt="JavaFX" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" alt="REST APIs (basic concepts)" title="REST APIs (Conceptual / Basic)" />
+  <img src="https://img.shields.io/badge/REST_APIs_(basics)-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="REST APIs, basic concepts" />
 </p>
 
 **Databases**
@@ -73,25 +71,15 @@
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Apache Maven" />
 </p>
 
-### Software engineering concepts
+**Software engineering concepts**
 
 - Object-oriented analysis and design, MVC architecture
 - UML (class diagrams, associations, dependencies)
 - Software testing, verification and quality assurance
 - Distributed systems fundamentals
 - Relational database design and SQL
+- Basic backend development with PHP and MySQL
 - Flutter state management (Provider) and local storage (`sqflite`)
-- Basic REST API concepts
-
-### Currently learning
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
 
 ---
 
@@ -129,13 +117,32 @@ Desktop applications built with JavaFX using MVC, FXML, controllers and Scene Bu
 - **Technologies:** Java, JavaFX, FXML, Scene Builder, MySQL (where database-driven)
 - **Repository:** [PLACEHOLDER: JavaFX project repository URL]
 
-> These are academic and practice projects. They demonstrate structure, clarity and design understanding rather than production-level scale.
+> 📍 These are academic and practice projects. They demonstrate structure, clarity and design understanding rather than production-level scale.
 
 ### Other Academic Work
 
 - Software testing metrics and test case design
 - Distributed system design analysis
 - Java RMI programming exercises
+
+---
+
+## 📚 Currently Learning
+
+My focus is extending a Java and software design foundation, plus my web development experience, into backend engineering.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+- **Backend engineering:** Building maintainable applications and REST APIs with Python and Django
+- **JavaScript:** Deepening modern JavaScript and front-end development
+- **Databases:** SQL, relational database design and integrating databases with application backends
+- **Quality and delivery:** Testing, documentation, Git workflows, and introductory Docker and deployment
 
 ---
 
@@ -147,17 +154,6 @@ These are ideas I am exploring. None of them are completed or deployed applicati
 - **CampusHub:** a university portal for administrative requests, clearances and maintenance tracking
 - **CareLink:** a healthcare platform for specialist discovery and appointment booking
 - **LeaseFlex:** a rental and lease management platform for tenants and property managers
-
----
-
-## 📚 Current Learning
-
-My focus is extending a Java and software design foundation, plus my web development experience, into backend engineering.
-
-- **Backend engineering:** Building maintainable applications and REST APIs with Python and Django
-- **JavaScript:** Deepening modern JavaScript and front-end development
-- **Databases:** SQL, relational database design and integrating databases with application backends
-- **Quality and delivery:** Testing, documentation, Git workflows, and introductory Docker and deployment
 
 ---
 
@@ -178,6 +174,6 @@ I am interested in internship and junior developer opportunities, especially in 
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zefasil20&theme=tokyo-night&hide_border=true" alt="Zefasil's GitHub contribution activity graph" />
-</p>
+   <p align="center">
+     <img src="https://ghchart.rshah.org/4F9DFF/zefasil20" alt="Zefasil's GitHub contribution heatmap" />
+   </p>
